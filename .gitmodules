@@ -16,3 +16,9 @@
 [submodule "external/tinyply"]
 	path = external/tinyply
 	url = https://github.com/ddiakopoulos/tinyply.git
+[submodule "external/colmap"]
+	path = external/colmap
+	url = git@github.com:colmap/colmap.git
+[submodule "external/ceres-solver"]
+	path = external/ceres-solver
+	url = https://ceres-solver.googlesource.com/ceres-solver
